@@ -11,6 +11,7 @@ public class Main {
 	private static void displayGreeting(){
 		System.out.println("blablabla");
 		System.out.println("blablabla");
-		System.out.println("--------------");
+		System.out.println("adsadadas");
+		System.out.println("---------");
 	}	
 }
