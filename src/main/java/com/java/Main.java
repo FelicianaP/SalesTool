@@ -11,5 +11,6 @@ public class Main {
 	private static void displayGreeting(){
 		System.out.println("text 1");
 		System.out.println("text 2");
+		System.out.println("test3");
 	}	
 }
